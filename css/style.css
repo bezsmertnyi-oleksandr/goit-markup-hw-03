@@ -421,7 +421,7 @@ address {
   margin-bottom: 30px;
 }
 
-.projects-list:nth-last-child(3n) {
+.projects-list li:nth-last-child(3n) {
   margin-right: 0;
 }
 
